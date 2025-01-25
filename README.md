@@ -1,4 +1,4 @@
-# Hi there, I'm Sajid Jahabarali! 👋
+# Hi there, I'm Sajid Jahabar Ali! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source projects, and learning new technologies.
 
