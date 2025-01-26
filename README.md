@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## About Me
 
-- 💼 Software Developer at Sainsbury's Digital, Tech and Data.
+- 💼 Full-Stack Software Engineer at Sainsbury's Digital, Tech and Data.
 - 🎓 Graduated with a degree in BSc Computer Science from Queen Mary University of London.
 - 🔭 My current projects can be found on [Plane](https://app.plane.so/sajidjahabarali/projects/)
 - 💬 Ask me about anything related to web development, JavaScript, or open-source contributions.
